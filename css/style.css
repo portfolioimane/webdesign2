@@ -107,7 +107,7 @@ Home Styles
 */
 .home{
 	height:500px;
-	background:url('../images/Home/home1.jpg');
+	background:url('../images/home/home1.jpg');
 	background-size:cover;
 	background-position:top;
 	text-align:center;
